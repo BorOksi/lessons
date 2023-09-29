@@ -1,0 +1,27 @@
+/* Скидання стилів */
+@import url("reset.css");
+
+* {color: indigo;}
+
+.header-list li,
+.footer-list li {color: aqua;}
+
+.title {color: red;}
+
+.subtitle.facts{color: palevioletred;}
+
+.subtitle.trip{color: pink;}
+
+p{color: mediumseagreen;}
+
+.list li {color: blue;}
+
+.trip > p {color: orange;}
+
+span{ color: black;}
+
+#love{color: darkred;}
+
+.trip.kharkiv p{color: darkkhaki;}
+
+.link{color: grey;}
